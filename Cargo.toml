@@ -2,7 +2,7 @@
 name = "julian"
 version = "0.1.0"
 edition = "2021"
-repository = "https://github.com/henryk1229/julian"
+repository = "https://github.com/henryk1229/julian/tree/main"
 authors = ["<henryk1229> <henryk1229@gmail.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
